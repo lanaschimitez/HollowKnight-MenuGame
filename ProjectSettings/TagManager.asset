@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Luz1
+    uniqueID: 3802084177
+    locked: 0
+  - name: Luz2
+    uniqueID: 2270988453
+    locked: 0
